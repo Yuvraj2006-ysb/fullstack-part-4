@@ -27,6 +27,6 @@ export default [
     },
   },
   {
-    ignores: ['dist/**','src/services/notes.js'],
+    ignores: ['dist/**', 'src/services/notes.js', 'part3-notes-backend/**'],
   },
 ]
